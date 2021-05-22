@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jay13jay
-- 👀 I’m interested in python, golang, all things automation, and pentesting/security research
-- 🌱 I’m currently learning Blender, Unreal Engine, C++, Golang, and ML/NLP 
+- 👀 I’m interested in python, golang, blender and 3d animation with a focus on Unreal Engine, all things automation, and pentesting/security research
+- 🌱 I’m currently learning Blender, Unreal Engine, C++, Rust, and ML/NLP 
 - 💞️ I’m looking to collaborate on anything really, I'm open to ideas.
 - 📫 How to reach me:
   - Email: jhaxllc@gmail.com
