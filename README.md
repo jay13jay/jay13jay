@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @jay13jay
 - 👀 I’m interested in python, golang, blender and 3d animation with a focus on Unreal Engine, all things automation, and pentesting/security research
-- 🌱 I’m currently learning Blender, Unreal Engine, C++, Rust, and ML/NLP 
+- 🌱 I’m currently learning Blender, Unreal Engine, C++, and Golang
 - 💞️ I’m looking to collaborate on anything really, I'm open to ideas.
 - 📫 How to reach me:
   - Email: jhaxllc@gmail.com
-  - Discord: josh6537#0166
-    - For a discord invite, send me a message on jhaxllc@gmail.com and I'll send you an invite
   - HTB (hack the box): ![jhax13]("http://www.hackthebox.eu/badge/image/73358")
 
 <!---
