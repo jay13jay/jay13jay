@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything really, I'm open to ideas.
 - 📫 How to reach me:
   - Email: jhaxllc@gmail.com
-  - HTB (hack the box): ![jhax13]("http://www.hackthebox.eu/badge/image/73358")
+  - HTB (hack the box): ![jhax13]("http://www.hackthebox.eu/badge/image/73358")<br>
 ![jhax](https://www.hackthebox.eu/badge/image/73358)
 
 <!---
