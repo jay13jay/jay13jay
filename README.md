@@ -5,6 +5,7 @@
 - 📫 How to reach me:
   - Email: jhaxllc@gmail.com
   - HTB (hack the box): ![jhax13]("http://www.hackthebox.eu/badge/image/73358")
+![jhax](https://www.hackthebox.eu/badge/image/73358)
 
 <!---
 jay13jay/jay13jay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
