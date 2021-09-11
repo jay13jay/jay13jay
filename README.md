@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Blender, Unreal Engine, C++, and Golang
 - 📫 How to reach me:
   - Email: jhaxllc@gmail.com
-  - HTB (hack the box): ![jhax13]("https://app.hackthebox.eu/profile/73358")<br>
+  - HTB (hack the box): ![jhax13]("https://app.hackthebox.eu/profile/73358")
+  <br>
